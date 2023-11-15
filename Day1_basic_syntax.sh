@@ -20,6 +20,8 @@ ls
 ls -l
 # + 숨김파일까지
 ls -al
+# + 시간순으로 파일을 정렬
+ls -alrt
 
 # 디렉토리 생성
 mkdir jaeyoung_dir
